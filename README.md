@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Nagesh B C
 
-<!--
-**CodeFear5/codeFear5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Engineering Student | 💻 Full Stack Java Developer | 🚀 Aspiring Tech Entrepreneur
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I'm a passionate Full Stack Developer from Bangalore, India, currently pursuing B.E. in Information Science & Engineering. I enjoy building scalable and efficient web applications using **Java**, **Spring Boot**, **React.js**, and **MongoDB**. I'm also actively working on real-world SaaS products and full-stack projects to sharpen my skills.
+
+---
+
+## 🚀 Tech Stack
+
+**Languages:**  
+`Java` `JavaScript` `SQL` `HTML` `CSS`
+
+**Frameworks / Libraries:**  
+`Spring Boot` `React.js` `Tailwind CSS` `JSP` `Node.js`
+
+**Tools / Platforms:**  
+`Git` `GitHub` `Postman` `MySQL` `MongoDB` `Vercel` `AWS EC2`  
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| **Complaint Tracker System** | Role-based system with user, staff, and admin dashboards to manage complaints | Java, Spring Boot, React, JWT | [GitHub Repo](https://github.com/CodeFear5) |
+| **FormFlow** *(WIP)* | Smart form automation SaaS with WhatsApp/email follow-up and lead dashboard | MERN Stack + Twilio API | [GitHub Repo](https://github.com/CodeFear5) |
+| **Portfolio Website** | Responsive personal portfolio hosted with GitHub Pages | React, Tailwind CSS | [Live Site](https://codefear5.github.io/portfolio) |
+
+---
+
+## 📈 GitHub Stats
+
+![Nagesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeFear5&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeFear5&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: nageshbc55@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/nagesh-b-c-b5614b254](https://linkedin.com/in/nagesh-b-c-b5614b254)  
+- 💻 GitHub: [github.com/CodeFear5](https://github.com/CodeFear5)
+
+---
+
+> “Code. Build. Learn. Repeat.” 💪
+
