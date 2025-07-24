@@ -12,14 +12,8 @@ I'm a passionate Full Stack Developer from Bangalore, India, currently pursuing 
 
 ## 🚀 Tech Stack
 
-**Languages:**  
-`Java` `JavaScript` `SQL` `HTML` `CSS`
+<img width="1662" height="775" alt="image" src="https://github.com/user-attachments/assets/fa6bef0e-2fee-4e63-b777-c33dd283f600" />
 
-**Frameworks / Libraries:**  
-`Spring Boot` `React.js` `Tailwind CSS` `JSP` `Node.js`
-
-**Tools / Platforms:**  
-`Git` `GitHub` `Postman` `MySQL` `MongoDB` `Vercel` `AWS EC2`  
 
 ---
 
