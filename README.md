@@ -20,10 +20,9 @@ I'm a passionate Full Stack Developer from Bangalore, India, currently pursuing 
 ## 📌 Featured Projects
 
 | Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **Complaint Tracker System** | Role-based system with user, staff, and admin dashboards to manage complaints | Java, Spring Boot, React, JWT | [GitHub Repo](https://github.com/CodeFear5) |
-| **FormFlow** *(WIP)* | Smart form automation SaaS with WhatsApp/email follow-up and lead dashboard | MERN Stack + Twilio API | [GitHub Repo](https://github.com/CodeFear5) |
-| **Portfolio Website** | Responsive personal portfolio hosted with GitHub Pages | React, Tailwind CSS | [Live Site](https://codefear5.github.io/portfolio) |
+|--------|-------------|------------|------|      https://github.com/CodeFear5/Complaint-Tracker
+| **Complaint Tracker System** | Role-based system with user, staff, and admin dashboards to manage complaints | Java, Spring Boot, React, JWT | [GitHub Repo](https://github.com/CodeFear5/Complaint-Tracker) |
+ | **Portfolio Website** | Responsive personal portfolio hosted with GitHub Pages | React, Tailwind CSS | [Live Site](https://codefear5.github.io/portfolio) |
 
 ---
 
