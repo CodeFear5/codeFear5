@@ -20,9 +20,9 @@ I'm a passionate Full Stack Developer from Bangalore, India, currently pursuing 
 ## 📌 Featured Projects
 
 | Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|      https://github.com/CodeFear5/Complaint-Tracker
+|--------|-------------|------------|------|
 | **Complaint Tracker System** | Role-based system with user, staff, and admin dashboards to manage complaints | Java, Spring Boot, React, JWT | [GitHub Repo](https://github.com/CodeFear5/Complaint-Tracker) |
- | **Portfolio Website** | Responsive personal portfolio hosted with GitHub Pages | React, Tailwind CSS | [Live Site](https://codefear5.github.io/portfolio) |
+| **Portfolio Website** | Responsive personal portfolio hosted with GitHub Pages | React, Tailwind CSS | [Live Site](https://codefear5.github.io/portfolio) |
 
 ---
 
