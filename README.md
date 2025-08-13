@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- Animated Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF7F&center=true&vCenter=true&width=900&lines=Hi%F0%9F%91%8B%2C+I'm+Nagesh+B+C;Full+Stack+Java+Developer;SaaS+Product+Builder;Aspiring+Tech+Entrepreneur;Code.+Build.+Learn.+Repeat." alt="Typing SVG" />
 </p>
@@ -48,11 +48,19 @@
 
 ---
 
-## 🏆 Achievements  
+## 🏆 GitHub Trophies  
 
-- 🥇 Finalist – **College Hackathon 2024**  
-- 🏅 Built **3+ full-stack applications** used by 50+ users  
-- 🎯 200+ commits this year — **consistent contributor**  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CodeFear5&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true)
+
+---
+
+## 📜 Achievements  
+
+- 📌 Completed **multiple full-stack projects** including SaaS & enterprise-level apps  
+- 🔒 Implemented **secure JWT-based authentication** in production-ready apps  
+- 📊 Built dashboards with **real-time charts & analytics** for data-driven insights  
+- 🛠 Hands-on with **Dockerized deployments** and cloud hosting on AWS  
+- 🌟 Consistent GitHub contributor with **200+ commits this year**
 
 ---
 
@@ -66,11 +74,9 @@
 
 ---
 
-## 🎯 Fun Extras  
+## 🐍 Contribution Snake Animation  
 
-## 🏆 Achievements & Trophies  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CodeFear5&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true)
+![Snake animation](https://github.com/CodeFear5/CodeFear5/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
