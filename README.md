@@ -13,7 +13,7 @@
 🌱 Learning **Microservices & Cloud Architecture**  
 
 💼 **Specialized In**  
-`Java` · `Spring Boot` · `React.js` · `JWT` · `MongoDB` · `MySQL` · `Docker` · `AWS`
+`Java` · `Spring Boot` · `React.js`  · `MongoDB` · `MySQL` · `Docker` · `AWS`
 
 ---
 
@@ -31,8 +31,7 @@
 |------------|---------------|--------------|----------|
 | **Complaint Tracker System** | Role-based dashboards for Users, Staff, Admin | Java, Spring Boot, React, JWT | [Repo](https://github.com/CodeFear5/Complaint-Tracker) |
 | **Portfolio Website** | Personal responsive portfolio | React, Tailwind CSS | [Live](https://codefear5.github.io/portfolio) |
-| **FormFlow SaaS** *(WIP)* | Smart form automation + analytics | MERN, Twilio API | *(Coming Soon)* |
-
+ 
 ---
 
 ## 📊 GitHub Insights  
@@ -60,8 +59,7 @@
 - 🔒 Implemented **secure JWT-based authentication** in production-ready apps  
 - 📊 Built dashboards with **real-time charts & analytics** for data-driven insights  
 - 🛠 Hands-on with **Dockerized deployments** and cloud hosting on AWS  
-- 🌟 Consistent GitHub contributor with **200+ commits this year**
-
+ 
 ---
 
 ## 📫 Connect with Me  
