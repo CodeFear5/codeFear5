@@ -72,8 +72,6 @@
 
 ---
 
-## 🐍 Contribution Snake Animation  
-
 ![Snake animation](https://github.com/CodeFear5/CodeFear5/blob/output/github-contribution-grid-snake.svg)
 
 ---
