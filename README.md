@@ -72,8 +72,7 @@
 
 ---
 
-![Snake animation](https://github.com/CodeFear5/CodeFear5/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 ---
 
 > _"Code. Build. Learn. Repeat."_ 💪  
