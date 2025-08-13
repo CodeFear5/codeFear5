@@ -68,8 +68,9 @@
 
 ## 🎯 Fun Extras  
 
-![Profile views](https://komarev.com/ghpvc/?username=CodeFear5&color=00FF7F&style=for-the-badge)  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=CodeFear5&theme=matrix&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 Achievements & Trophies  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CodeFear5&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true)
 
 ---
 
