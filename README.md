@@ -9,7 +9,7 @@
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/CodeFear5/">
+  <a href="[https://leetcode.com/u/CodeFear5/](https://leetcode.com/u/codeinovator/)">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
   </a>
 </p>
