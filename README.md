@@ -1,7 +1,7 @@
 <!-- Header Buttons -->
 <p align="left">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=CodeFear5&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+ [![Profile Views](https://komarev.com/ghpvc/?username=CodeFear5&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/CodeFear5)
+
 
   <!-- Nagesh B C (LinkedIn) -->
   <a href="https://linkedin.com/in/nagesh-b-c-b5614b254">
