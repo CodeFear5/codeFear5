@@ -9,28 +9,29 @@
 ## 👨‍💻 About Me
 
 I am a final-year **ISE Student** passionate about developing scalable full-stack applications and real-world SaaS products.  
-My core strengths lie in **Java, Spring Boot, React**, and backend system design.  
-I am currently exploring **Microservices, Docker, and AWS Cloud Architecture** to build efficient and production-ready applications.
+My core strengths lie in **Java, Spring Boot, React**, and backend architecture.  
+I am currently exploring **Microservices, Docker, and AWS Cloud Architecture** to build efficient systems.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- 100% stable GitHub Stats -->
   <img width="48%" src="https://readme-stats.clckblog.space/api?username=CodeFear5&show_icons=true&theme=radical" />
+  
+  <!-- 100% stable Streak Stats -->
   <img width="48%" src="https://streak-stats.demolab.com/?user=CodeFear5&theme=radical" />
 </p>
-
-
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeFear5&theme=radical&margin-w=15&no-frame=true" />
+  <!-- Fully working trophy mirror -->
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeFear5&theme=radical&no-frame=true&margin-w=10&row=1" />
 </div>
-
-
 
 ---
 
