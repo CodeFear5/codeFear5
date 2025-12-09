@@ -17,17 +17,19 @@ I am currently exploring **Microservices, Docker, and AWS Cloud Architecture** t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-master-john-doe.vercel.app/api?username=CodeFear5&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=CodeFear5&theme=radical" />
+  <img width="48%" src="https://readme-stats.clckblog.space/api?username=CodeFear5&show_icons=true&theme=radical" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=CodeFear5&theme=radical" />
 </p>
+
 
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeFear5&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeFear5&theme=radical&margin-w=15&no-frame=true" />
 </div>
+
 
 
 ---
